@@ -1,0 +1,4 @@
+﻿  118.c
+c:\users\13597\desktop\cnc\c-c-c\118\118\118.c(348): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+c:\users\13597\desktop\cnc\c-c-c\118\118\118.c(357): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  118.vcxproj -> C:\Users\13597\Desktop\cnc\c-c-c\118\Debug\118.exe
