@@ -1,0 +1,4 @@
+﻿  119.c
+c:\users\13597\desktop\cnc\c-c-c\119\119\119.c(415): warning C4013: “scnanf”未定义；假设外部返回 int
+119.obj : error LNK2019: 无法解析的外部符号 _scnanf，该符号在函数 _main 中被引用
+C:\Users\13597\Desktop\cnc\c-c-c\119\Debug\119.exe : fatal error LNK1120: 1 个无法解析的外部命令
