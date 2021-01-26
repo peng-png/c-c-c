@@ -1,0 +1,4 @@
+﻿  125.c
+c:\users\13597\desktop\cnc\c-c-c\125\125\125.c(231): warning C4013: “strlen”未定义；假设外部返回 int
+c:\users\13597\desktop\cnc\c-c-c\125\125\125.c(238): error C2374: “arr”: 重定义；多次初始化
+  c:\users\13597\desktop\cnc\c-c-c\125\125\125.c(223): note: 参见“arr”的声明
